@@ -1,5 +1,6 @@
 # 1378. Replace Employee ID With The Unique Identifier
 
+```
 Table: Employees
 
 +---------------+---------+
@@ -8,6 +9,8 @@ Table: Employees
 | id            | int     |
 | name          | varchar |
 +---------------+---------+
+
+
 id is the primary key for this table.
 Each row of this table contains the id and the name of an employee in a company.
  
@@ -68,3 +71,5 @@ Alice and Bob do not have a unique ID, We will show null instead.
 The unique ID of Meir is 2.
 The unique ID of Winston is 3.
 The unique ID of Jonathan is 1.
+
+```
